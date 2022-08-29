@@ -1,0 +1,9 @@
+package com.example.mospertestsapprefactor.presentation.detail_employee
+
+import com.example.mospertestsapprefactor.databinding.FragmentEmployeeDetailBinding
+import com.example.mospertestsapprefactor.presentation.base.BaseFragment
+
+class DetailEmployeeFragment:BaseFragment<FragmentEmployeeDetailBinding>(FragmentEmployeeDetailBinding::inflate) {
+
+
+}

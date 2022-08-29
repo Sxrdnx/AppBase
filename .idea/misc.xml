@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/MosperTestsAppRefactor/app/src/main/res/drawable/backgroun_button.xml" value="0.1035" />
+        <entry key="..\:/Android/MosperTestsAppRefactor/app/src/main/res/drawable/background_edit_text.xml" value="0.1035" />
+        <entry key="..\:/Android/MosperTestsAppRefactor/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1035" />
+        <entry key="..\:/Android/MosperTestsAppRefactor/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android/MosperTestsAppRefactor/app/src/main/res/layout/employee_detail_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android/MosperTestsAppRefactor/app/src/main/res/layout/fragment_employee_detail.xml" value="0.13438368860055608" />
+        <entry key="..\:/Android/MosperTestsAppRefactor/app/src/main/res/layout/fragment_employee_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android/MosperTestsAppRefactor/app/src/main/res/layout/fragment_login.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
